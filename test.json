@@ -1,0 +1,10 @@
+{
+    "device_name": "JSON2C", 
+    "settings": { 
+        "timezone": "Taiwan", 
+        "mode" : "Dual_Band", 
+        "model" : "AP",
+        "total_usr" : 3, 
+        "usr_name" : ["git", "hub", "no1"]
+    }
+}
